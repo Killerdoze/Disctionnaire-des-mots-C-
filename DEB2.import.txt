@@ -1,0 +1,6 @@
+888888,verbe,swim,يَسْبَحُ,nadar,nager,I swim everyday,أنا أسبح كل يوم,Nado todos los días,Je nage tous les jours,لقد سبحت لمدة ساعة,I've swimed for one hour,Ella nadó durante una hora,Je nage tous les jours
+914004,nom,dog,كلب,perro,chien,I have a nice dog,لدي كلب لطيف جداً,Tengo un perro muy amable,J'ai un chien très gentil,الكلب حيوان أليف شائع,the dog is domestic animal,El perro es una mascota común,J'ai un chien très gentil
+155386,nom,country,بلد,país,pays,I admire travelling to differents country,أنا أحب السفر إلى بلدان مختلفة,Me encanta viajar a diferentes países,J'adore voyager dans différents pays,بلدي الأصلي هو فرنسا,My mother country is France,Mi país de origen es Francia,J'adore voyager dans différents pays
+148413,verbe,watch,يُشَاهِدُ,mirar,regarder,I watch the tele,أنا أشاهد التلفزيون,Miro la televisión,Je regarde la télévision,هي تشاهد هاتفها المحمول,She watch her phone,Ella mira su teléfono móvil,Je regarde la télévision
+831857,nom,car,سَيَّارَةٌ,coche,voiture,I have a red car,لدي سيارة حمراء,Tengo un coche rojo,J'ai une voiture rouge,السيارة مركونة في الشارع,the car is submitted on the street,El coche está aparcado en la calle,J'ai une voiture rouge
+
